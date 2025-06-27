@@ -1,0 +1,68 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": "chris@g.c",
+  "first_name": "Chris",
+  "full_name": "Chris John",
+  "last_name": "John",
+  "modified": "2025-06-03 15:51:12.784908",
+  "name": "LM0002",
+  "phone": "1234567890"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": "speed@g.c",
+  "first_name": "speed",
+  "full_name": "speed show",
+  "last_name": "show",
+  "modified": "2025-06-03 16:19:29.977521",
+  "name": "LM0003",
+  "phone": "1234567890"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": null,
+  "first_name": "bose",
+  "full_name": "bose ",
+  "last_name": null,
+  "modified": "2025-06-04 12:58:48.966899",
+  "name": "LM0005",
+  "phone": "1234567890"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": "ksi@g.c",
+  "first_name": "ksi",
+  "full_name": "ksi ",
+  "last_name": null,
+  "modified": "2025-06-04 16:36:49.295325",
+  "name": "LM0006",
+  "phone": "1234567890"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": "chris@g.c",
+  "first_name": "Chris",
+  "full_name": "Chris John",
+  "last_name": "John",
+  "modified": "2025-06-03 15:48:38.694258",
+  "name": "LM0001",
+  "phone": "1234567890"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Library Member",
+  "email_address": "c@g.c",
+  "first_name": "chris",
+  "full_name": "chris john",
+  "last_name": "john",
+  "modified": "2025-06-04 12:11:10.631955",
+  "name": "LM0004",
+  "phone": "1323457890"
+ }
+]

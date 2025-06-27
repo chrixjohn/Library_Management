@@ -1,0 +1,50 @@
+[
+ {
+  "amended_from": null,
+  "docstatus": 1,
+  "doctype": "Library Membership",
+  "from_date": "2025-06-01",
+  "full_name": "Chris John",
+  "library_member": "LM0001",
+  "modified": "2025-06-03 15:55:49.832064",
+  "name": "LMS0001",
+  "paid": 0,
+  "to_date": "2025-06-07"
+ },
+ {
+  "amended_from": null,
+  "docstatus": 0,
+  "doctype": "Library Membership",
+  "from_date": "2025-06-02",
+  "full_name": "Chris John",
+  "library_member": "LM0001",
+  "modified": "2025-06-03 15:52:35.642299",
+  "name": "LMS0002",
+  "paid": 0,
+  "to_date": "2025-06-06"
+ },
+ {
+  "amended_from": null,
+  "docstatus": 1,
+  "doctype": "Library Membership",
+  "from_date": "2025-06-15",
+  "full_name": "chris john",
+  "library_member": "LM0004",
+  "modified": "2025-06-04 12:11:42.358607",
+  "name": "LMS0003",
+  "paid": 1,
+  "to_date": "2025-06-20"
+ },
+ {
+  "amended_from": null,
+  "docstatus": 1,
+  "doctype": "Library Membership",
+  "from_date": "2025-07-01",
+  "full_name": "chris john",
+  "library_member": "LM0004",
+  "modified": "2025-06-04 12:14:05.903767",
+  "name": "LMS0004",
+  "paid": 1,
+  "to_date": "2025-07-06"
+ }
+]
